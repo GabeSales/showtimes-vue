@@ -1,0 +1,141 @@
+.premier {
+    background-image: linear-gradient(#312d1f, #1a1610);
+    color: rgb(160, 158, 161);
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 16.65%
+}
+
+.premierTitulo {
+    background-image: linear-gradient(#312d1f, #1a1610);
+    color: #c9b39c;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 800;
+    min-height: 100px;
+    width: 35%;
+    padding-left: 10px;
+}
+
+.resolucao {
+    background-image: linear-gradient(-90deg, #66645f, #4d4b48);
+    color: rgb(126, 123, 123);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 38px;
+    font-weight: 800;
+    min-width: 150px;
+    text-shadow: 2px 2px 4px rgb(71, 71, 71)
+}
+
+.resolucaoPremier {
+    background-image: linear-gradient(-90deg, #66645f, #4d4b48);
+    color: #fdee9b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 800;
+    min-width: 150px;
+    text-shadow: 0 0 3px #fff;
+}
+
+.padraoHora {
+    background-color: #abadae;
+    color: rgb(34, 35, 37);
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 16.65%
+}
+
+.padraoEsgotado {
+    background-image: linear-gradient(#E12A26, #BC0F15);
+    color: rgb(34, 35, 37);
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 16.65%
+}
+
+.legendaEsgotado {
+    margin-bottom: 0px;
+    font-weight: 700;
+}
+
+.padraoHoraTexto {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.premierHoraTexto {
+    color: #c9b39c;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.legenda {
+    margin-bottom: 0px;
+    padding: 0 14px;
+    border-radius: 14px;
+    box-shadow: inset 0 1px 2px 2px #6a6a6a;
+    background-color: #a6a6a4;
+    line-height: 20px;
+    padding-bottom: 2px;
+}
+
+.legendaPremier {
+    margin-bottom: 0px;
+    margin-bottom: 0px;
+    padding: 0 14px;
+    border-radius: 14px;
+    box-shadow: inset 0 1px 2px 2px #6a6a6a;
+    color: #312d1f;
+    background-color: #a6a6a4;
+    line-height: 20px;
+    padding-bottom: 2px;
+}
+
+.padraoTitulo {
+    background-color: rgb(34, 35, 37);
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 800;
+    min-height: 100px;
+    width: 35%;
+    padding-left: 10px;
+}
+
+.padraoIndicativa {
+    background-color: #2c2d30;
+    color: white;
+    min-height: 100px;
+    min-width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.textoIndicativo{
+    text-align: center;
+    margin: 0px;
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
