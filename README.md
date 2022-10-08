@@ -1,4 +1,4 @@
-# teste-mog
+# Test Frontend Mog Design
 
 ## Project setup
 ```
